@@ -14,7 +14,6 @@ import { playNotificationSound } from "@/lib/actions"
 import { auth, db, database } from "@/lib/firestore"
 import { InfoIcon } from "lucide-react"
 import { onValue, ref } from "firebase/database"
-
 function useOnlineUsersCount() {
   const [onlineUsersCount, setOnlineUsersCount] = useState(0)
 

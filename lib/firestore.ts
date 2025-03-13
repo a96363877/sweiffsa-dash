@@ -4,13 +4,13 @@ import { getFirestore} from 'firebase/firestore';
 import { getDatabase} from 'firebase/database';
 
 const firebaseConfig = {
- apiKey: "AIzaSyCTizRBYkfD4dfV_QjpPBOxJhYji3f5bQc",
-  authDomain: "swidah-mormr-enw.firebaseapp.com",
-  projectId: "swidah-mormr-enw",
-  storageBucket: "swidah-mormr-enw.firebasestorage.app",
-  messagingSenderId: "472801298504",
-  appId: "1:472801298504:web:0dc80587cf6c0839cef07d",
-  measurementId: "G-0V8CCB874S"
+  apiKey: 'AIzaSyAD3iyMWhdzQ4VIXZcwCpUJTnqFTe5jt7U',
+  authDomain: 'wedsdasd.firebaseapp.com',
+  projectId: 'wedsdasd',
+  storageBucket: 'wedsdasd.firebasestorage.app',
+  messagingSenderId: '299161995646',
+  appId: '1:299161995646:web:45b8e58faa99d3e75ccb2f',
+  measurementId: 'G-614JDKQGMC',
 };
 
 
